@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.body-left{
+    background: url('https://w0.peakpx.com/wallpaper/159/982/HD-wallpaper-weather-colors-art-fantasy-3d-colors-rainbow-abstract-weather.jpg');
+    background-size: cover;
+    width: 60%;
+    height: 90vh;
+}
+
+.body-left h1{
+    margin: 5vh 0px 45vh 0px;
+}
+
+.body-left h2{
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.body-left .para2{
+    margin-bottom: 5vh;
+}
+
+.body-right{
+    width: 30%;
+    height: 90vh;
+}
+
+.divider{
+    height: 2px;
+    background-color: rgb(151, 151, 151);
+}
+
+input{
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+::placeholder{
+    color: rgb(151, 151, 151);;
+}
+.color{
+    color: aliceblue;
+}
